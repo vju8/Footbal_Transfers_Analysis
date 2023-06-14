@@ -1,7 +1,7 @@
-**Project name:**
+**Project name:**  
 Football Transfer Market Analysis
 
-**Project Description:** 
+**Project Description:**  
 In the year 2017, Neymar got transfered from Barcelona to PSG for 222 million euros. That is until today the most expensive football transfer in history. After seeing the news
 I was impressed by the high football player valuation on the market and got interested to take a closer look at the data. 
 
